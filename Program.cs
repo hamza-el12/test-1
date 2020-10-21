@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace LoanApplication
 {
@@ -54,6 +54,21 @@ namespace LoanApplication
             }
         }
         // property setting and returning rate 
+        
+        
+        public int Age
+        {
+            set
+            {
+                Age = value 
+
+            }
+            get
+            {
+                return Age
+            }
+        }
+        
         public double Rate
         {
             set
@@ -64,6 +79,19 @@ namespace LoanApplication
             {
                 return rate;
             }
+
+        }
+        public double Rate
+        {
+            set
+            {
+                rate = value;
+            }
+            get
+            {
+                return rate;
+            }
+            
         }
         // Property to set the numPayment , given years to finance  .
         // Returns the number of years using number of payment .
