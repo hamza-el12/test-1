@@ -2,7 +2,7 @@ I build the swift project
 converted ui storybard 
 converted aplView controller
 
-it all in our perspacive if we look hard enough evrt woman we meet will have some espect that is less than ideal 
+it all in our perspacive if we look hard enough evrt woman we be weae of what  meet will have some espect that is less than ideal 
 
 
 def sum2(numbers):
@@ -14,6 +14,9 @@ def sum2(numbers):
  return 0
 
  else:
+ but what if somthing goes wrong with names and all of the changes 
+
+ but what if somthing gose wrond 
 
  r=numbers[1]/numbers[0]
 
