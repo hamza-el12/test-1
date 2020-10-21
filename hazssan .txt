@@ -1,0 +1,20 @@
+I build the swift project 
+converted ui storybard 
+converted aplView controller
+
+it all in our perspacive if we look hard enough evrt woman we meet will have some espect that is less than ideal 
+
+
+def sum2(numbers):
+
+ n=len(numbers)
+
+ if numbers == [] or n == 0:
+
+ return 0
+
+ else:
+
+ r=numbers[1]/numbers[0]
+
+ return (numbers[0] * (1-r**n) / (1-r))
